@@ -6,15 +6,15 @@ The purpose of this program is to find the k-th smallest value in a given datase
 ## Inputs
 To run the program, use the makefile command 'make run'. The program prompts the user to enter the following inputs:
 
-Whether the user wants to use the default dataset or not. If not, the user can input their own data.
+Whether the user wants to use the default dataset or not. If not, the user can choose their own data in the sortArray Vector
 An integer value k for the k-th smallest value. The limit will be printed for the user's convenience.
 
 ## Outputs
 The program outputs the following:
 
-- The unsorted array.
 - The binary tree representation of the dataset using an in-order traversal, with values printed in numeric order.
 - The k-th smallest value in the dataset.
+- Post Order Destroy (to deallocate the data stored on the Heap)
 
 ## Usage
 To run the program, simply use the makefile command 'make run'. Follow the instructions in the prompt to input the necessary values.
