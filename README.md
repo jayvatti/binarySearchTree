@@ -19,11 +19,11 @@ The program outputs the following:
 ## Usage
 To run the program, simply use the makefile command 'make run'. Follow the instructions in the prompt to input the necessary values.
 
-## Changes
+## Changes : File: [`KthSmallestElement`](/kthSmallestElementAlt.cpp)
 
 My professor was teaching us about exceptions in software design, and I thought I could use exceptions to exit from recursion stacks instead of having a base condition. 
 This is a simpler version of the kth smallest element, which is much easier to understand. 
-File: [`KthSmallestElement`](/kthSmallestElementAlt.cpp)
+
 
 
 ## Future Improvements
