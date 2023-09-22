@@ -19,5 +19,11 @@ The program outputs the following:
 ## Usage
 To run the program, simply use the makefile command 'make run'. Follow the instructions in the prompt to input the necessary values.
 
+## Changes
+
+My professor was teaching us about exceptions in software design, and I thought I could use exceptions to exit from recursion stacks instead of having a base condition. 
+This is a simpler version of the kth smallest element, which is much easier to understand. (file: kthSmallestElementAlt.cpp)
+
+
 ## Future Improvements
 This program could be further improved by implementing other data structures, such as heaps or priority queues, to improve the efficiency and speed of finding the k-th smallest value in a dataset.
